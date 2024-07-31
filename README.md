@@ -14,6 +14,8 @@ The Bank Management System is a console-based application implemented in C++ tha
 - **Close Account**: Delete an account from the system.
 - **Modify Account**: Update account information including name, type, and balance.
 
+![Preview](preview.png)
+
 ## File Descriptions
 
 - `.cpp`: The main program file containing the implementation of the bank management system.
